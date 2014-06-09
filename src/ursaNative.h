@@ -3,7 +3,6 @@
 #ifndef URSA_NATIVE_H
 #define URSA_NATIVE_H
 
-#define BUILDING_NODE_EXTENSION
 #include <node.h>
 #include <v8.h>
 
